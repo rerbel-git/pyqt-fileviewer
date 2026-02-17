@@ -1,0 +1,16 @@
+# Python temporäre Dateien
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtuelle Umgebungen (UV & Standard)
+.venv/
+venv/
+ENV/
+
+# VS Code Einstellungen (optional, oft besser im Git zu ignorieren)
+.vscode/
+
+# Falls du mal Daten lokal speicherst, die nicht ins Git sollen
+*.log
+.DS_Store
