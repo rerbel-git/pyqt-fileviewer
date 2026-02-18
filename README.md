@@ -1,1 +1,2 @@
-# PyQt6 Fileviewer\nGestartet am 17.02.2026
+# PyQt6 Fileviewer
+Gestartet am 17.02.2026
